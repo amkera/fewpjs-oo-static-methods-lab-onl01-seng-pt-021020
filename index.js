@@ -8,8 +8,8 @@ class Formatter {
   }
   
   static titleize(string) {
-    array = string.split("") 
-    array.forEach(letter => {
+    array = string.split(" ") 
+    array.forEach(word => {
       if 
     })
   }
