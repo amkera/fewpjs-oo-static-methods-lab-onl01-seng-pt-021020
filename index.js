@@ -10,7 +10,7 @@ class Formatter {
   static titleize(string) {
     array = string.split(" ") 
     array.forEach(word => {
-      if 
+      if word.toString() === ""
     })
   }
 }
