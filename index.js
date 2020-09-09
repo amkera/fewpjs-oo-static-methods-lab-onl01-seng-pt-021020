@@ -9,5 +9,8 @@ class Formatter {
   
   static titleize(string) {
     array = string.split("") 
+    array.forEach(letter => {
+      if 
+    })
   }
 }
