@@ -8,6 +8,6 @@ class Formatter {
   }
   
   static titleize(string) {
-    return string[0].toUpperCase() + string.slice(1); 
+    array = string.split("") 
   }
 }
